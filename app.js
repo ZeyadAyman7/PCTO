@@ -48,8 +48,8 @@ window.addEventListener("scroll", ()=>{
   laptops[0].style.transform = `translateX(calc(730vh - ${offsetY}px))`
   phones[2].style.transform = `translateX(calc(870vh - ${offsetY}px))`
   laptops[1].style.transform = `translateX(calc(1000vh - ${offsetY}px))`
-  phones[3].style.transform = `translateX(calc(1125vh - ${offsetY}px))`
-  laptops[2].style.transform = `translateX(calc(1250vh - ${offsetY}px))`
+  laptops[2].style.transform = `translateX(calc(1115vh - ${offsetY}px))`
+  laptops[3].style.transform = `translateX(calc(1250vh - ${offsetY}px))`
 
 
 })
